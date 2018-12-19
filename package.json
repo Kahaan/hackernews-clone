@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Kahaan/hackernews-clone.git",
   "author": "Kahaan <kahaan.r.patel@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.9"
+  }
 }
